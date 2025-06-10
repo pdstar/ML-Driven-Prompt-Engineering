@@ -1,5 +1,5 @@
 # ML Driven Prompt Engineering
-Build a Custom OpenAI Chatbot with ML-Driven Prompt Engineering
+Build a Custom OpenAI Chatbot with ML-Driven Prompt Engineering and hand-built Retrival Augmentation Generation
 
 ## Here's how I built the custom Q&A bot:
 
